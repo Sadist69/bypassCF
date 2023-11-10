@@ -1,4 +1,5 @@
-import os ,system
+import os 
+import system
 os.system("sudo apt update")
 os.system("sudo apt install nodejs")
 os.system("sudo npm install nodejs")
